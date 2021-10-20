@@ -1,4 +1,4 @@
-const CONTRACT_NAME = process.env.CONTRACT_NAME ||'nft-linkdrop'
+const CONTRACT_NAME = process.env.CONTRACT_NAME ||'nft-linkdrop.tst2b2.testnet'
 
 function getConfig(env) {
   switch (env) {
